@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Fernando Alexis Mendez Ramos</h1>
 <h3 align="center">Intelligent Computing Engineer-Artificial Intelligence-Neural Networks-Analyst IT</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=fernandoalexismendezramos&label=Profile%20views&color=0e75b6&style=flat" alt="fernandoalexismendezramos" /> </p>
-
 - 📫 How to reach me : **alexis.mendez.ramos@gmail.com**
 
 - 📄 Know about my experiences : Intelligent Computing Engineer from the Meritorious Autonomous University of Aguascalientes, degree pending delivery in November 2022. Thesis entitled "Neural classifier for interpretation of electroencephalographic signals of intention to move" with python. Interested in contributing my knowledge and experience in operational and/or administrative areas to be able to work as a team, lead projects, be able to analyze processes to achieve improvements. With a solid knowledge of the mathematical and theoretical foundations of Computer Science, Artificial Intelligence, and the software Industry, IT Support.
